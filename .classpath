@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/GaminiNagaSaiGayathr/Desktop/Full stack/Full stack/jarfiles_fullstack/selenium_java-master/cucumber/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GaminiNagaSaiGayathr/Desktop/Full stack/Full stack/jarfiles_fullstack/selenium_java-master/cucumber/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GaminiNagaSaiGayathr/Desktop/Full stack/Full stack/jarfiles_fullstack/selenium_java-master/cucumber/cucumber-html-0.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GaminiNagaSaiGayathr/Desktop/Full stack/Full stack/jarfiles_fullstack/selenium_java-master/cucumber/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GaminiNagaSaiGayathr/Desktop/Full stack/Full stack/jarfiles_fullstack/selenium_java-master/cucumber/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GaminiNagaSaiGayathr/Desktop/Full stack/Full stack/jarfiles_fullstack/selenium_java-master/cucumber/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GaminiNagaSaiGayathr/Desktop/Full stack/Full stack/jarfiles_fullstack/selenium_java-master/cucumber/cucumber-reporting-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GaminiNagaSaiGayathr/Desktop/Full stack/Full stack/jarfiles_fullstack/selenium_java-master/cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GaminiNagaSaiGayathr/Desktop/Full stack/Full stack/jarfiles_fullstack/selenium_java-master/cucumber/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GaminiNagaSaiGayathr/Desktop/Full stack/Full stack/jarfiles_fullstack/selenium_java-master/cucumber/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GaminiNagaSaiGayathr/Desktop/Full stack/Full stack/jarfiles_fullstack/selenium_java-master/TestNG/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GaminiNagaSaiGayathr/Desktop/Full stack/Full stack/jarfiles_fullstack/selenium_java-master/TestNG/guice-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GaminiNagaSaiGayathr/Desktop/Full stack/Full stack/jarfiles_fullstack/selenium_java-master/TestNG/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GaminiNagaSaiGayathr/Desktop/Full stack/Full stack/jarfiles_fullstack/selenium_java-master/TestNG/testng-7.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GaminiNagaSaiGayathr/Desktop/Full stack/Full stack/jarfiles_fullstack/selenium_java-master/TestNG/velocity-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GaminiNagaSaiGayathr/Desktop/Full stack/Full stack/jarfiles_fullstack/selenium_java-master/TestNG/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/GaminiNagaSaiGayathr/Desktop/Full stack/Full stack/jarfiles_fullstack/selenium_java-master/TestNG/velocity-dep-1.4.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
